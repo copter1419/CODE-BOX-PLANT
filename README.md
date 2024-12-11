@@ -80,9 +80,16 @@ void loop() {
 ```
 รายชื่อlibralyที่ใช้
 1. ESP8266WiFi - สำหรับเชื่อมต่อ Wi-Fi
-2. ESPAsyncWebServer - สำหรับสร้างเว็บเซิร์ฟเวอร์
-3. Wire - สำหรับการเชื่อมต่อเซ็นเซอร์บางตัว (ถ้าใช้ I2C)
-4. DHT (ถ้าเพิ่มเซ็นเซอร์วัดอุณหภูมิและความชื้น) - สำหรับเซ็นเซอร์วัดสภาพแวดล้อม
+https://github.com/ekstrand/ESP8266wifi4
+
+3. ESPAsyncWebServer - สำหรับสร้างเว็บเซิร์ฟเวอร์
+ https://github.com/lacamera/ESPAsyncWebServer
+
+4. Wire - สำหรับการเชื่อมต่อเซ็นเซอร์บางตัว (ถ้าใช้ I2C)
+https://github.com/codebendercc/arduino-library-files/blob/master/libraries/Wire/Wire.h
+
+5. DHT11 (ถ้าเพิ่มเซ็นเซอร์วัดอุณหภูมิและความชื้น) - สำหรับเซ็นเซอร์วัดสภาพแวดล้อม
+https://github.com/dhrubasaha08/DHT11
 
 # 3.ประกอบอุุปกรณ์ต่างๆเข้าด้วยกัน
 ตัวอย่างภาพ
