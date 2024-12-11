@@ -13,7 +13,7 @@
 
 # 2.ติดตั้งโค้ดและไลเบอรี่สำหรับโปรเจค
 โค้ด
-```
+```c++
 #include <ESP8266WiFi.h>
 #include <ESPAsyncWebServer.h>
 
